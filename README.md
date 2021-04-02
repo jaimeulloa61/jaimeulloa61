@@ -27,5 +27,7 @@
   <img align="left" alt="Daniel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielgonzalez3&show_icons=true&hide_border=false" />
 </details>
 
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danielgonzalez3&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez3&theme=merko&layout=compact&hide_langs_below=1" /></p>
+
 [linkedin]: https://www.linkedin.com/in/danielgonzalez19/
 [website]: http://athena.ecs.csus.edu/~gonzald/
