@@ -2,6 +2,7 @@
 
 ## I am Student at California State University, Sacramento currently pursuing a Bachelor's Degree in Computer Engineering and Minor in Mathematics with an expected graduation date of May 2021. My current career aspirations revolve around Software Development, Technical Debug, Embedded Programming, and Real Time Computing.
 
+
 - 🌱 Currently learning more of the Embedded Programming Stack
 - 🥅 2021 Goals: Learn more Front-End tools
 - ⚡ Fun fact: I enjoy Powerlifting and Biking
