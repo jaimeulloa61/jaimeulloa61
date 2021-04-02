@@ -11,6 +11,10 @@
       🤖 C++
       🐍 Python3
       🦾 PowerShell
+  ### OverAll
+      ● Languages: C++, Java, Python, PowerShell, C, Verilog, SystemVerilog, VHDL, x86 Assembly
+      ● Soware and OS: GDB, Git, Linux, JIRA, Confluence, SharePoint, PowerBi, Office 365, Packer
+
 
 
 ### Connect with me:
