@@ -15,7 +15,8 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/danielgonzalez19/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<p align="left"><img width="50%" src="http://athena.ecs.csus.edu/~gonzald/" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulbhati&theme=merko&layout=compact&hide_langs_below=1" /></p>
+
+<p align="left"><img width="50%" src="http://athena.ecs.csus.edu/~gonzald/" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez3&theme=merko&layout=compact&hide_langs_below=1" /></p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
