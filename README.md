@@ -7,14 +7,7 @@
 - ⚡ Fun fact: I enjoy powerlifting and Biking
 
 ### Connect with me:
-<br > 
-
-[<img align="left" width="22px" src="http://athena.ecs.csus.edu/~gonzald/" />] [website]
-[<img align="left" width="22px" src="https://www.linkedin.com/in/danielgonzalez19/" />] [linkedin]
-
-<br />
-
----
+<a href="https://www.linkedin.com/in/danielgonzalez19/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
