@@ -16,7 +16,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/danielgonzalez19/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 
-<a href="https://twitter.com/local__tourist" target="_blank"><img src="http://athena.ecs.csus.edu/~gonzald/" alt="Website" width="30"></a>
+<a href="https://twitter.com/local__tourist" target="_blank"><img src="http://athena.ecs.csus.edu/~gonzald/" alt="Twitter" width="30"></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
