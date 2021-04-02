@@ -15,8 +15,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/danielgonzalez19/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.linkedin.com/in/danielgonzalez19/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
-
+<a href="http://athena.ecs.csus.edu/~gonzald/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 
 
 <details>
