@@ -5,7 +5,6 @@
 
 - 🌱 Currently learning more about Embedded Programming: <a>https://github.com/danielgonzalez3/CPE190</a>
 - 🥅 2021 Goals: Learn more Django
-- ⚡ Fun fact: I enjoy Powerlifting and Biking
 
 # TECH STACK
   ### Programming Languages [Recent]
