@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub! 👋
 
-I am currently: 
+As of 11/24/2021 I am: 
 - ☕ Supporting a MicroServices Project written in the Micronaut Framework
 - 🌱 Working on a Kuka Interface [Research Stage]: <a>https://github.com/danielgonzalez3/iKUKA</a>
 
