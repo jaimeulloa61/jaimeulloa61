@@ -1,18 +1,17 @@
 ### Hi there, welcome to my GitHub! 👋
 
-## I am Student at California State University, Sacramento currently pursuing a Bachelor's Degree in Computer Engineering and Minor in Mathematics with an expected graduation date of May 2021. My current career aspirations revolve around Software Development, Embedded Programming, and Real Time Computing. <br></br>
-
-
-- 🌱 Currently learning more about Embedded Programming: <a>https://github.com/danielgonzalez3/CPE190</a>
+- ☕ Supporting a MicroServices Project written in the Micronaut Framework
+- 🌱 Working on a Kuka Interface [Research Stage]: <a>https://github.com/danielgonzalez3/iKUKA</a>
 
 # TECH STACK
   ### Programming Languages [Recent]
+      ☕ Java
       🤖 C++
       🐍 Python3
       🦾 PowerShell
       
   ### Knowledge and Skills:
-      ● Languages: C++, Java, Python, PowerShell, C, Verilog, SystemVerilog, VHDL, x86 Assembly
+      ● Languages: Java, C++, Python, PowerShell, C, Verilog, SystemVerilog, VHDL, x86 Assembly
       ● Software and OS: GDB, Git, Linux, JIRA, Confluence, SharePoint, PowerBi, Office 365, Packer
 
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danielgonzalez3&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez3&theme=merko&layout=compact&hide_langs_below=1" /></p>
