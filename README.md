@@ -1,8 +1,9 @@
 ### Hi there, welcome to my GitHub! 👋
 
 Currently Working on the Following: 
-- ☕ Supporting a MicroServices Project written in the Micronaut Framework
-- 🌱 Working on a Kuka Interface [Research Stage]: <a>https://github.com/danielgonzalez3/iKUKA</a>
+- ☕ Supporting a Java Project in the Micronaut Framework
+- 🐣 Working on an instance of Backstage [Context]: <a>https://backstage.io/</a>
+- 🌱 Node Application for Large Tree Database: https://selectree.calpoly.edu/ (Academic Based)
 
 # TECH STACK
   ### Programming Languages [Recent]
