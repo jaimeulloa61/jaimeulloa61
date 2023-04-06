@@ -2,8 +2,8 @@
 
 Currently Working on the Following: 
 - ☕ Supporting a Java Project in the Micronaut Framework
-- 🐣 Working on an instance of Backstage [Context]: <a>https://backstage.io/</a>
-- 🌱 Node Application for Large Tree Database: https://selectree.calpoly.edu/ (Academic Based)
+- 🐣 Working on an instance of Backstage: <a>https://backstage.io/</a>
+- 🌱 Node Application for Large Tree Database: <a>https://selectree.calpoly.edu/ [Academic Based] </a>
 
 # TECH STACK
   ### Programming Languages [Recent]
