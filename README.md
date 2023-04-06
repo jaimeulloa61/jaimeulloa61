@@ -12,7 +12,7 @@ Currently Working on the Following:
       
   ### Knowledge and Skills:
       ● Languages: Java, C++, Python, PowerShell, C, Verilog, SystemVerilog, VHDL, x86 Assembly
-      ● Software and OS: GDB, Git, Linux, kubernetes, Docker, JIRA, Packer, PowerBi, Office 365
+      ● Software and OS: GDB, Git, Linux, Flux, Helm, Kubernetes, Docker, JIRA, Packer, PowerBi, Office 365, AWS
 
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danielgonzalez3&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez3&theme=merko&layout=compact&hide_langs_below=1" /></p>
 
