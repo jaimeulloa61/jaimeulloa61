@@ -7,7 +7,7 @@ Currently Working on the Following:
 
 # TECH STACK
   ### Programming Languages [Recent]
-      ☕ Java
+      ☕ Typescript
       🐍 Python3
       
   ### Knowledge and Skills:
