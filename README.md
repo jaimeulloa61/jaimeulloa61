@@ -1,9 +1,9 @@
 ### Hi there, welcome to my GitHub! 👋
 
 Currently Working on the Following: 
-- ☕ Supporting a Java Project in the Micronaut Framework
-- 🐣 Working on an instance of Backstage: <a>https://backstage.io/</a>
-- 🌱 Node Application for Large Tree Database: <a>https://selectree.calpoly.edu/ [Academic Based] </a>
+- ☕ Supporting a transaction processing system in vertx (java)
+- 🐣 OCR Receipt solution (golang)
+- 🌱 Node Application for Largest Tree Database in the USA (js): <a>https://selectree.calpoly.edu/ [Academic Based] </a>
 
 # TECH STACK
   ### Programming Languages [Recent]
