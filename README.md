@@ -26,8 +26,9 @@ Currently Working on the Following:
 
 ---
 
+## 📊 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeulloa&theme=tokyonight&layout=compact&hide_langs_below=1" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeulloa&theme=merko&layout=compact&hide_langs_below=1" width="500"/>
 </p>
 
 ---
