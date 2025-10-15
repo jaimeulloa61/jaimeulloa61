@@ -28,13 +28,13 @@ Currently Working on the Following:
 
 ## 📊 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeulloa&theme=merko&layout=compact&hide_langs_below=1" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeulloa61&theme=merko&layout=compact&hide_langs_below=1" width="500"/>
 </p>
 
 ---
 
 ### 💼 Connect with me:  
-<a href="https://www.linkedin.com/in/jaimeulloa/" target="_blank">
+<a href="www.linkedin.com/in/jaimeulloa61" target="_blank">
   <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="60">
 </a>
 
